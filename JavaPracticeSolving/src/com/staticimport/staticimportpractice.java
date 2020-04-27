@@ -1,3 +1,13 @@
+/**
+ * 
+ * 			Author			: 	Karshil	Sheth
+ * 			Date			:	27th April,2020
+ * 			Task			: Writing import static program and why is it used.
+ * 			
+ * 
+ * 
+ * 
+ * */
 package com.staticimport;
 
 import static java.lang.System.out;
