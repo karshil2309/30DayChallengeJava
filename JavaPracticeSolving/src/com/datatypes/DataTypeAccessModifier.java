@@ -31,7 +31,7 @@ public class DataTypeAccessModifier extends Subclass {
 	private int a=5;
 	final long b=567l;
 	protected final void showSample() {
-		
+
 		System.out.println("Super Class with Protected method+"+" "+a+" "+b);
 	}
 }
